@@ -1,0 +1,5 @@
+Duplicate version of git.
+Supports basic commands (add, rm, checkout, commit, log, status, merge, and rebase)
+To run, simply compile and run `java Gitlet`.
+
+To add a file, run `java Gitlet add test.txt`
