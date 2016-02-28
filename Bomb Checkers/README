@@ -1,0 +1,9 @@
+Bomb checkers is a modification of regular checkers. There are 3 pieces: shield, pawn, and bomb.
+
+To run, compile `javac Board.java`. Then execute `java Board`.
+
+How to Play:
+Select a piece. (your selected piece will be highlighted with a white square)
+Move the piece to a valid square. 
+Press `SPACE` to complete your turn
+Now it's the next players turn!
